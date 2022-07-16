@@ -1,6 +1,6 @@
 <?php
 namespace Elementor;
-
+<meta name="facebook-domain-verification" content="2iedg2q6a5lx44c94h4jf3h5m1yfi9" />
 use Elementor\Core\Base\Document;
 
 if ( ! defined( 'ABSPATH' ) ) {
